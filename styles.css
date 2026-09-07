@@ -11,12 +11,10 @@
 @media(max-width:460px){.footer-grid{grid-template-columns:1fr}.hero-copy h1{font-size:45px}.trust-grid>div{padding:11px}.trust-grid b{font-size:11px}.trust-grid small{font-size:9px}}
 .admin-access{position:fixed;right:18px;bottom:18px;width:42px;height:42px;border-radius:50%;display:grid;place-items:center;text-decoration:none;z-index:50;background:rgba(17,12,24,.78);border:1px solid rgba(255,255,255,.18);color:#fff;backdrop-filter:blur(10px);box-shadow:0 10px 28px rgba(0,0,0,.28);font-size:18px}.admin-access:hover{transform:translateY(-2px)}
 
-
-/* Hero brand: larger + fully clickable */
-.hero-brand-link{display:flex;text-decoration:none!important;cursor:pointer;transition:.2s ease;transform-origin:left center}
-.hero-brand-link strong{font-size:clamp(18px,2.1vw,30px);font-weight:1000;letter-spacing:1.8px;background:linear-gradient(90deg,#fff,#e2a1f2,#fff);-webkit-background-clip:text;background-clip:text;color:transparent;text-shadow:0 8px 30px rgba(195,77,229,.18)}
-.hero-brand-link:hover{transform:translateX(4px)}
-.visual-card{display:block;color:inherit;text-decoration:none!important;cursor:pointer}
-.visual-link{font-size:12px;font-weight:900;color:#fff}
-.visual-card:hover{transform:translateY(-3px);transition:.2s ease}
-@media(max-width:760px){.hero-brand-link strong{font-size:18px;letter-spacing:1px}.hero-brand-link{gap:7px}}
+/* BRAND SIZE FIX — Automobile Elkheshen */
+.brand{min-width:365px;gap:13px}
+.brand img{width:68px;height:68px;border-radius:14px}
+.brand b{font-size:24px;font-weight:900;letter-spacing:.8px;line-height:1.05;white-space:nowrap;background:linear-gradient(90deg,#fff,#e4a7f5,#fff);-webkit-background-clip:text;background-clip:text;color:transparent;text-shadow:0 8px 28px rgba(190,76,223,.18)}
+.brand small{font-size:11px;margin-top:5px;color:#c9b5d0;font-weight:600}
+@media(max-width:1050px){.brand{min-width:300px}.brand b{font-size:20px}.brand img{width:60px;height:60px}}
+@media(max-width:760px){.brand{min-width:0;gap:8px}.brand img{width:50px;height:50px;border-radius:11px}.brand b{font-size:13px;letter-spacing:.35px}.brand small{font-size:8px;margin-top:3px}}

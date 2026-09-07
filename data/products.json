@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "product-1788759141411",
+    "name": "مرسيدس C250",
+    "price": 1100000,
+    "year": "2011",
+    "category": "sedan",
+    "transmission": "اوتوماتيك",
+    "fuel": "بنزين",
+    "description": "مرسيدس C250 موديل 2011\r\nفابريكا بالكامل من جوه وبره، وحالتها ممتازة جدًا.\r\nعربية نضيفة، ومناسبة للي بيدور على حالة مميزة من غير وجع دماغ\r\nللتفاصيل والمعاينة، تواصل معنا.",
+    "image": "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788759129051-zcod4m-3fd130e71630191a3576a64becc55855.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788759129051-zcod4m-3fd130e71630191a3576a64becc55855.jpg",
+      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788759130307-dr5jw4-4cb88a849e31c26678bed7f6e36b907e.jpg",
+      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788759131174-nxjyzw-824aa599b3680c99ed49b9b08e1d4741.jpg",
+      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788759132026-hth2sw-829ea025c04b7afb406f71e8d766ad23.jpg",
+      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788759133054-qnd40f-18584746656ffaea2cbb297be106b197.jpg",
+      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788759133899-vw48gn-a992eda2ddd2409009e9037c1f953b42.jpg",
+      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788759134804-zib99v-eff9ec8f94ec498e5a3f4eaaad18c705.jpg"
+    ],
+    "status": "available"
+  }
+]

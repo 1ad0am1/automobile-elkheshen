@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "id": "submission-1788869723010-xymhp",
+    "name": "Mohamed",
+    "phone": "01286228416",
+    "carName": "النترا",
+    "price": 1205050,
+    "mileage": 300000,
+    "year": "2026",
+    "transmission": "اوتوماتيك",
+    "fuel": "بنزين",
+    "description": "تجريبي",
+    "images": [
+      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788869721857-hil2a0-1f2dd01b3e9956e276ac1c9bf15e296d.jpg"
+    ],
+    "status": "pending",
+    "createdAt": "2026-09-08T12:15:23.010Z"
+  }
+]

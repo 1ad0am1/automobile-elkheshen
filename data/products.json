@@ -25,5 +25,21 @@
     ],
     "status": "available",
     "badge": "مميز"
+  },
+  {
+    "id": "customer-1788869755291",
+    "name": "النترا",
+    "price": 1205050,
+    "year": "2026",
+    "category": "",
+    "transmission": "اوتوماتيك",
+    "fuel": "بنزين",
+    "mileage": 300000,
+    "description": "تجريبي",
+    "image": "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788869721857-hil2a0-1f2dd01b3e9956e276ac1c9bf15e296d.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788869721857-hil2a0-1f2dd01b3e9956e276ac1c9bf15e296d.jpg"
+    ],
+    "status": "available"
   }
 ]

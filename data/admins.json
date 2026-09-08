@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "staff-1788854511900-wfb0x",
+    "name": "ehab",
+    "email": "ehab2020@gmail.com",
+    "salt": "7f1bc5894dfe902e50c9c969f086a309",
+    "hash": "7f1d21dffe09e95236174d827667c6a82bedf4bc28938e3fdab6781ebc700123e191d4aec00f51c352cd9071de448d33a7ff3809ecc47c06811e04c349e78e54",
+    "iterations": 120000,
+    "active": true,
+    "createdAt": "2026-09-08T08:01:51.973Z"
+  }
+]

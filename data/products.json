@@ -1,27 +1,5 @@
 [
   {
-    "id": "product-1788766778731",
-    "name": "مرسيدس C250",
-    "price": 1100000,
-    "year": "2011",
-    "category": "",
-    "transmission": "اوتوماتيك",
-    "fuel": "بنزين",
-    "mileage": 0,
-    "description": "عربية شيك ومحترمة، وحالتها مميزة جدًا\r\nفابريكا بالكامل من جوه وبره\r\nاللون: فضي\r\nالعربية مناسبة للي بيدور على مرسيدس بحالة نضيفة وشكل راقي، ولسه محتفظة برونقها.\r\nللتفاصيل والمعاينة والتواصل، ابعت رسالة.",
-    "image": "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788766629147-pm2noj-18584746656ffaea2cbb297be106b197.jpg",
-    "images": [
-      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788766629147-pm2noj-18584746656ffaea2cbb297be106b197.jpg",
-      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788766641952-sfqacj-3fd130e71630191a3576a64becc55855.jpg",
-      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788766642918-o8gxh6-4cb88a849e31c26678bed7f6e36b907e.jpg",
-      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788766643835-e3pf4o-824aa599b3680c99ed49b9b08e1d4741.jpg",
-      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788766644732-n9g17b-829ea025c04b7afb406f71e8d766ad23.jpg",
-      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788766645710-r2797v-a992eda2ddd2409009e9037c1f953b42.jpg",
-      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788766646647-tbkzx1-eff9ec8f94ec498e5a3f4eaaad18c705.jpg"
-    ],
-    "status": "available"
-  },
-  {
     "id": "product-1788869374827",
     "name": "مرسيدس",
     "price": 100000000,

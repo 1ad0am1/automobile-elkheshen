@@ -4,9 +4,10 @@
     "name": "مرسيدس C250",
     "price": 1100000,
     "year": "2011",
-    "category": "sedan",
+    "category": "",
     "transmission": "اوتوماتيك",
     "fuel": "بنزين",
+    "mileage": 0,
     "description": "عربية شيك ومحترمة، وحالتها مميزة جدًا\r\nفابريكا بالكامل من جوه وبره\r\nاللون: فضي\r\nالعربية مناسبة للي بيدور على مرسيدس بحالة نضيفة وشكل راقي، ولسه محتفظة برونقها.\r\nللتفاصيل والمعاينة والتواصل، ابعت رسالة.",
     "image": "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788766629147-pm2noj-18584746656ffaea2cbb297be106b197.jpg",
     "images": [
@@ -18,7 +19,6 @@
       "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788766645710-r2797v-a992eda2ddd2409009e9037c1f953b42.jpg",
       "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788766646647-tbkzx1-eff9ec8f94ec498e5a3f4eaaad18c705.jpg"
     ],
-    "status": "available",
-    "badge": "مميز"
+    "status": "available"
   }
 ]

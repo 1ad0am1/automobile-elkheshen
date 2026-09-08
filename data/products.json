@@ -1,1 +1,29 @@
-[]
+[
+  {
+    "id": "product-1788869627262",
+    "name": "مرسيدس C250",
+    "price": 1100000,
+    "year": "2011",
+    "category": "sedan",
+    "transmission": "اوتوماتيك",
+    "fuel": "بنزين",
+    "mileage": 300,
+    "description": "رسيدس 2011 للبيع\r\n\r\nعربية شيك ومحترمة، وحالتها مميزة جدًا\r\nفابريكا بالكامل من جوه وبره\r\nاللون: فضي\r\n\r\nالعربية مناسبة للي بيدور على مرسيدس بحالة نضيفة وشكل راقي، ولسه محتفظة برونقها.\r\n\r\nللتفاصيل والمعاينة والتواصل، ابعت رسالة.",
+    "image": "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788869573772-iojscq-178e475658745e06cf92f08e11e26f8d.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788869573772-iojscq-178e475658745e06cf92f08e11e26f8d.jpg",
+      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788869584853-b13m01-6aaf5df49ff5fecd6a61d64437345ac2.jpg",
+      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788869605495-9bw7e7-7f35e56e222bc2c01bc663a7ed274649.jpg",
+      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788869606845-3lsoj4-9b2665beecc4b1b77a5f535b4950fdac.jpg",
+      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788869607831-l6gxhg-79375161059f3a4874a5daf2c5f17b78.jpg",
+      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788869608936-hzh986-ecaf5961e2a5d104242ed3cfa2a57994.jpg",
+      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788869614714-wjgn65-1f2dd01b3e9956e276ac1c9bf15e296d.jpg",
+      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788869615608-6pentc-7b6dcabe6c762e0e724b36ab9fa8c385.jpg",
+      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788869616707-mpnqvm-9ba4c63117c51de04eeb775b94393e55.jpg",
+      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788869617814-9iumbc-8988c7a4a1115ec7c598bc83f3e58f55.jpg",
+      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788869618881-lkfrfr-e287037c1382965da40000c5085a23b2.jpg"
+    ],
+    "status": "available",
+    "badge": "مميز"
+  }
+]

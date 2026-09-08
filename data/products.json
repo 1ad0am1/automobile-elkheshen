@@ -20,5 +20,21 @@
       "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788766646647-tbkzx1-eff9ec8f94ec498e5a3f4eaaad18c705.jpg"
     ],
     "status": "available"
+  },
+  {
+    "id": "product-1788869374827",
+    "name": "مرسيدس",
+    "price": 100000000,
+    "year": "2026",
+    "category": "",
+    "transmission": "اوتوماتيك",
+    "fuel": "بنزين",
+    "mileage": 222,
+    "description": "2222222222222222222222222222222222222222222222222222",
+    "image": "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788869369879-n9qkgv-5035e280cc038d475454fbeef049e841.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1788869369879-n9qkgv-5035e280cc038d475454fbeef049e841.jpg"
+    ],
+    "status": "available"
   }
 ]

@@ -38,5 +38,15 @@
     "iterations": 120000,
     "active": true,
     "createdAt": "2026-09-09T07:02:33.399Z"
+  },
+  {
+    "id": "staff-1788937705919-tlbgq",
+    "name": "Mohamed",
+    "email": "farid@e",
+    "salt": "449f5b5e1a983eccb3bfc29c6abbf28b",
+    "hash": "57105bf96375b9ec94d7ca023373496f9cd93b95751f41407df72db1fa886c770deaa5166a4b3850fbfc772aaf3768e30ae5d2df2d2b2075189f6ad7a2527a9e",
+    "iterations": 120000,
+    "active": true,
+    "createdAt": "2026-09-09T07:08:26.001Z"
   }
 ]

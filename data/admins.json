@@ -1,15 +1,5 @@
 [
   {
-    "id": "staff-1788855840038-6f5q9",
-    "name": "ehab",
-    "email": "ehab@elkheshen",
-    "salt": "09fc49c6b33ce2e8874d9a684e1c75f7",
-    "hash": "cfc9b9bb3666691d7dd3d69b4bc4df0ccfa63e91698d43c3a8052e29b0a57a891f9555e6761b524e639af3f89a12b65322b5565480fcba6fd69e319900ed8f7f",
-    "iterations": 120000,
-    "active": true,
-    "createdAt": "2026-09-08T08:24:00.181Z"
-  },
-  {
     "id": "staff-1788855873064-xtzrv",
     "name": "fady",
     "email": "fady@elkheshen",

@@ -28,5 +28,15 @@
     "iterations": 120000,
     "active": true,
     "createdAt": "2026-09-08T09:19:26.088Z"
+  },
+  {
+    "id": "staff-1788937269067-xt7f7",
+    "name": "Ehab",
+    "email": "ehab@elkheshen",
+    "salt": "87d54b9342a5f1da16daf60fcf5d7a4a",
+    "hash": "d724014991a81935f2bcd826a722cf61cde577226054ba4b1a68b5cbf4b9d5c133d18a5c43c96b0aa435bd0bb266f477450800ee042df6f7afe8edd528a3b8b6",
+    "iterations": 120000,
+    "active": true,
+    "createdAt": "2026-09-09T07:01:09.245Z"
   }
 ]

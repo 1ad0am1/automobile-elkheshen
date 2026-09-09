@@ -28,5 +28,15 @@
     "iterations": 120000,
     "active": true,
     "createdAt": "2026-09-09T07:01:30.442Z"
+  },
+  {
+    "id": "staff-1788937335308-7l5uf",
+    "name": "Ahmed Magdy",
+    "email": "magdy@elkheshen",
+    "salt": "130ae43d35e9751652375c8116e5b565",
+    "hash": "ff17a2a91d03fd092291be30bcda069591a05eac97a5162517994ae5da702007789b7d5a1f1cc9c694a10f5e235ac90716fc44099175d36c63d2d78785ea1e72",
+    "iterations": 120000,
+    "active": true,
+    "createdAt": "2026-09-09T07:02:15.468Z"
   }
 ]

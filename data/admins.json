@@ -20,16 +20,6 @@
     "createdAt": "2026-09-08T08:25:04.401Z"
   },
   {
-    "id": "staff-1788859166003-zolh3",
-    "name": "Ashraf",
-    "email": "ashraf@elkheshen",
-    "salt": "569d481eaa42ce1172a59b5ea04d2c0f",
-    "hash": "a8bc3a6009c018cbe7ed0e2be8c3e5acff36b3253da1d87fc1b665f46bcaca85b3028d886626220e721cb95901a8b709ccd9526a8df38383c6eb2a375e37060f",
-    "iterations": 120000,
-    "active": true,
-    "createdAt": "2026-09-08T09:19:26.088Z"
-  },
-  {
     "id": "staff-1788937269067-xt7f7",
     "name": "Ehab",
     "email": "ehab@elkheshen",

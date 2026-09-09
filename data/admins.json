@@ -10,16 +10,6 @@
     "createdAt": "2026-09-08T08:24:33.185Z"
   },
   {
-    "id": "staff-1788855904264-6fyqu",
-    "name": "ahmed magdy",
-    "email": "magdy@elkheshen",
-    "salt": "086f5882784de6466412c7ba00ca6a7f",
-    "hash": "e41822baccd816ba0485f227c06f0a4b6011c32777b6f256ba0fcc2fd3ce7a189334368f75bcba0a66baea8ecab8f885da6d28c1ea194a43884c767493f819f3",
-    "iterations": 120000,
-    "active": true,
-    "createdAt": "2026-09-08T08:25:04.401Z"
-  },
-  {
     "id": "staff-1788937269067-xt7f7",
     "name": "Ehab",
     "email": "ehab@elkheshen",

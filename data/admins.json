@@ -28,5 +28,15 @@
     "iterations": 120000,
     "active": true,
     "createdAt": "2026-09-09T07:02:15.468Z"
+  },
+  {
+    "id": "staff-1788937353261-0vkos",
+    "name": "Fady",
+    "email": "fady@elkheshen",
+    "salt": "7eaea828f2747c8def0a52bfa04f35e9",
+    "hash": "106bca6e4f8b354b684d3b8a61162997782b27985a32772a9df0085870506c17ec7a3f0b5e6a21e126e65138a931f4b9bf53a13738c0468c1e49bd224b2c91e7",
+    "iterations": 120000,
+    "active": true,
+    "createdAt": "2026-09-09T07:02:33.399Z"
   }
 ]

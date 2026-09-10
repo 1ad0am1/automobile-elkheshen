@@ -1,15 +1,5 @@
 [
   {
-    "id": "staff-1788937290296-xz12b",
-    "name": "Ashraf",
-    "email": "ashraf@elkheshen",
-    "salt": "8d56003daf4ab928175cd947cdf233f9",
-    "hash": "aba668d9a1df1e313f475ae292fc771c27d1d5b838a428d03618b26abe8e79e0f7f7bf91a155428051765566425b40a0f55c1d61e1cd190ecf173c183b3e5859",
-    "iterations": 120000,
-    "active": true,
-    "createdAt": "2026-09-09T07:01:30.442Z"
-  },
-  {
     "id": "staff-1788937335308-7l5uf",
     "name": "Ahmed Magdy",
     "email": "magdy@elkheshen",

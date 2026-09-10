@@ -44,5 +44,21 @@
     },
     "active": true,
     "createdAt": "2026-09-10T09:49:09.223Z"
+  },
+  {
+    "id": "staff-1789033824124-rn8th",
+    "name": "FARID",
+    "email": "farid@e",
+    "salt": "51ea3c63e59d174845b7345f26d51f3e",
+    "hash": "9e9bbf527bd27831b9500a9b859c84b653e94062b7a1a3b6fb0445bbde4d96b671438e5dc3a091f1ae8493a29c298a36e0701a427647e3cd98b95992862ab796",
+    "iterations": 120000,
+    "permissions": {
+      "publish": true,
+      "edit": true,
+      "delete": true,
+      "approve": true
+    },
+    "active": true,
+    "createdAt": "2026-09-10T09:50:24.211Z"
   }
 ]

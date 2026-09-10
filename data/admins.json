@@ -38,5 +38,21 @@
     "iterations": 120000,
     "active": true,
     "createdAt": "2026-09-09T07:02:33.399Z"
+  },
+  {
+    "id": "staff-1789033638483-f1hv0",
+    "name": "FARID",
+    "email": "farid@e",
+    "salt": "ef9dffe9cf136af20d5e61fef91da9fd",
+    "hash": "7f2d0d67b636f025c1d25cfe702cab54e2ad1dde61f75bc4a2d6fc8430107ee4a3e321c10a934060a8416c5e9616ca1f615406ebe6c3e51a5bc2881874a7f248",
+    "iterations": 120000,
+    "permissions": {
+      "publish": true,
+      "edit": true,
+      "delete": false,
+      "approve": false
+    },
+    "active": true,
+    "createdAt": "2026-09-10T09:47:18.645Z"
   }
 ]

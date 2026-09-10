@@ -44,5 +44,21 @@
     },
     "active": true,
     "createdAt": "2026-09-10T09:47:18.645Z"
+  },
+  {
+    "id": "staff-1789033749125-1mgvc",
+    "name": "Ehab",
+    "email": "ehab@elkheshen",
+    "salt": "78b573bc7b53591781a0b0789fffcb36",
+    "hash": "116afdbc9798603b9f91c52b1d70ed84e5cada040dbf94196fd41263c178d0f90e98e82715f12f1369244ddd3f8a412e3fb38833e136856e76103953e6f86bfb",
+    "iterations": 120000,
+    "permissions": {
+      "publish": true,
+      "edit": true,
+      "delete": true,
+      "approve": true
+    },
+    "active": true,
+    "createdAt": "2026-09-10T09:49:09.223Z"
   }
 ]

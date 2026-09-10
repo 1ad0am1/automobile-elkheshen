@@ -25,22 +25,5 @@
     ],
     "status": "available",
     "badge": "مميز"
-  },
-  {
-    "id": "product-1789033685166",
-    "name": "ffff",
-    "price": 33,
-    "year": "2011",
-    "category": "suv",
-    "transmission": "444",
-    "fuel": "444",
-    "mileage": 4444,
-    "description": "4444444444444444444444444444444444444444444444",
-    "image": "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1789033681440-8xu689-img_v3_0215d_ed686670-5eca-4acb-8a18-01aea7ed5dcg.png",
-    "images": [
-      "https://raw.githubusercontent.com/1ad0am1/automobile-elkheshen/main/uploads/1789033681440-8xu689-img_v3_0215d_ed686670-5eca-4acb-8a18-01aea7ed5dcg.png"
-    ],
-    "status": "available",
-    "badge": "44"
   }
 ]

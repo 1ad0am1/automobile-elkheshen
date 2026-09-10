@@ -50,5 +50,21 @@
     },
     "active": true,
     "createdAt": "2026-09-10T09:50:24.211Z"
+  },
+  {
+    "id": "staff-1789033852574-ehlxm",
+    "name": "Ashraf",
+    "email": "ashraf@elkheshen",
+    "salt": "c6ac76a9c1a83673023c77ba5f8be4d9",
+    "hash": "89fd9bc3d0106c45dd276fc0469d30268edc9e1bab3f492caed8d8eacd4166b781b2589292402cad6e611b82779032cf255ee4518f585bba61a08ceeebb79dc3",
+    "iterations": 120000,
+    "permissions": {
+      "publish": true,
+      "edit": true,
+      "delete": false,
+      "approve": true
+    },
+    "active": true,
+    "createdAt": "2026-09-10T09:50:52.647Z"
   }
 ]
